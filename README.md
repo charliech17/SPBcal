@@ -5,11 +5,13 @@ SPBcal Program manual
 
 　We develop an algorithm called SPBcal under Java SE runtime environment 1.8.0_131 to calculate transport parameters of thermoelectric materials within the framework of single parabolic band (SPB) model.The following are some instructions, which contain a breif introduction to every files in the program, program Installation and program excution.
 
-###*Program Introduciton###
+### *Program Introduciton ###
+
 　There are six files in the program named "FD0.java","FD.java","FD12.java","program5.java","otherdata.java" and "Main3.java".The first three file is to calculate Fermi-Dirac Integral zero,integer and half integer values."program5.java" is to determine reduced Fermi energy,"otherdata.java" is to calculate other ten related SPB transport parameters and "Main3.java" is to make integration of other files to build up Graphical interface.
 
 
-###*Program Installation###
+### *Program Installation ###
+
 　 The program installation can divided into two parts: 1. install java JRE 　2.install SPBcal program.
 
 　　1. Install java JRE
@@ -23,7 +25,7 @@ SPBcal Program manual
 
 　　　　Once you see this README.md file, you must have downloaded the SPBcal.jar program, which is jsut beside REASME.md.
 
-###*Program Excution###
+### *Program Excution ###
    
 　　1. Double click the SPBcal.jar, then you will see "How many temperature to calculate?".Enter a number within 1~20 and click "enter" button to generate input textfield.
 
@@ -34,7 +36,7 @@ SPBcal Program manual
 　
 
 
-###*Encounter problems? ###
+### *Encounter problems? ###
 
 
 　if you have any other problems about the Program, Please contact me.
