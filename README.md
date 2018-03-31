@@ -12,27 +12,27 @@ SPBcal Program manual
 
 ### *Program Installation ###
 
-　 The program installation can divided into two parts: 1. install java JRE 　2.install SPBcal program.
+　 The program installation is divided into two parts: 1. install java JRE 　2.install SPBcal program.
 
 　　1. Install java JRE
 
-　　　　java JRE can be download here: [http://www.oracle.com/technetwork/java/javase/downloads/jre9-downloads-3848532.html](http://www.oracle.com/technetwork/java/javase/downloads/jre9-downloads-3848532.html)
+　　　　java JRE can be downloaded here: [http://www.oracle.com/technetwork/java/javase/downloads/jre9-downloads-3848532.html](http://www.oracle.com/technetwork/java/javase/downloads/jre9-downloads-3848532.html)
 　　　　
 
 　　　　JRE download tutorial: [https://www.youtube.com/watch?v=z4c0YMtzxP0](https://www.youtube.com/watch?v=z4c0YMtzxP0) 
 
 　　2. Install SPBcal program 
 
-　　　　Our SPBcal program can be download here: [https://github.com/charliech17/SPBcal/releases](https://github.com/charliech17/SPBcal/releases)  (Notice that the java JRE version on your computer should higer or equal to 1.8_131. If you can not run SPBcal, please update the java JRE in your computer to higer version.)
+　　　　Our SPBcal program can be download edhere: [https://github.com/charliech17/SPBcal/releases](https://github.com/charliech17/SPBcal/releases)  (Note that the java JRE version on your computer should be higer or equal to 1.8_131. If you can not run SPBcal, please update the java JRE in your computer to higer version.)
 
-### *Program Excution ###
+### *Program Execution ###
    
-　　1. Double click the SPBcal.jar, then you will see "How many temperature to calculate?". Enter a number within 1~20 and click "enter" button to generate input textfield.
+　　1. Double click the SPBcal.jar, then you will see "How many temperatures are there to calculate?". Enter a number within 1~20 and click "enter" button to generate input text fields.
 
-　　2. Type at least Seebeck coefficient value (19~1464 uV/K) in the input textfield , then click "Calculate SPB transport parameters", the program will generate a table containing SPB parameters.
+　　2. Enter the Seebeck coefficients (19~1464 uV/K) in the input text fields, then click "Calculate SPB transport parameters", the program will generate a table containing SPB parameters.
 　　
 
-　　3. Use "ctrl-C" and "ctrl-V" to copy the SPB transport paramters to Excel, then you can use these data for analyzing, comparing, plotting graph or some other uses.
+　　3. Use "ctrl-C" and "ctrl-V" to copy the SPB transport parameters to Excel, then you can use these data for analysis, comparison, plotting graphs or some other uses.
 　
 
 
